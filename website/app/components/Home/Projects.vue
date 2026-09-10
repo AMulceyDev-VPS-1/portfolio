@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <HomeHero/>
-  <HomeTimeline/>
-  <HomeProjects/>
+
 </template>
 
 <style scoped>

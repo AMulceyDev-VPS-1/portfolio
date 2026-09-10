@@ -24,17 +24,15 @@
       </div>
 
       <div>
-        <p>
+        <h2>
           Je construis des sites web,
           <span>
             et j'explore le reste.
           </span>
-        </p>
+        </h2>
       </div>
 
       <div>
-        <hr />
-
         <div>
           <NuxtLink>
             Voir Mes Services
@@ -43,6 +41,17 @@
             Me Contacter
           </NuxtLink>
         </div>
+      </div>
+
+      <div>
+        <NuxtLink>
+          Github
+        </NuxtLink>
+        <NuxtLink>
+          Github
+        </NuxtLink>
+
+        <hr />
       </div>
     </div>
   </section>
